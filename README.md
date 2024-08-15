@@ -1,7 +1,7 @@
 # First-Repos
 This is my First Git Repository.
 <br>
-Author - Niraj kumar 
+Author - Niraj kumar (Nirala)
 <br>
 form Madhepura-distict (Bihar).
 <br>
